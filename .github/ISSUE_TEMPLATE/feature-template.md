@@ -10,5 +10,5 @@ assignees: ''
 ## Feature Description
 
 **As a**
-**I want a**
+**I want to**
 **So that**
