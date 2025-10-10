@@ -7,8 +7,22 @@ assignees: ''
 
 ---
 
-## Feature Description
+## Summary:
+**As a** [User Type] 
+**I want to** [Perform an Action] 
+**so that** [Achieve a Goal]
 
-**As a**
-**I want to**
-**So that**
+**Problem Statement:**
+(Describe the problem this Epic is trying to solve. What user pain point or business need are we addressing? Why is this important *now*?)
+
+**Goals / Objectives:**
+(What do we want to achieve by completing this Epic? These should be high-level outcomes.)
+- Goal 1: e.g., Increase user engagement by 10%.
+- Goal 2: e.g., Reduce customer support tickets related to account issues.
+- Goal 3: e.g., Provide a foundation for future personalization features.
+
+**Stakeholders:**
+- **Product Manager:** [Name]
+- **Tech Lead:** [Name]
+- **UX Designer:** [Name]
+- **Business Sponsor:** [Name]
