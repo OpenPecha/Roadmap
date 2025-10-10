@@ -1,7 +1,7 @@
 ---
 name: User Story Template
 about: This Template is for the User Stories of a Feature
-title: 'Story001: Title of the User Story '
+title: 'Story00X: Title of the User Story '
 labels: ''
 assignees: ''
 

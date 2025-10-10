@@ -1,7 +1,7 @@
 ---
 name: Feature Template
 about: This template is for Feature Description
-title: 'feat01:'
+title: 'Feat0X: Title of the Feature'
 labels: ''
 assignees: ''
 
