@@ -11,7 +11,7 @@ assignees: ''
 **I want to** [Describe the goal or action they want to perform],
 **so that** [Describe the benefit or reason for the goal].
 
-##Acceptance Criteria:
+## Acceptance Criteria:
 
 [A specific, testable condition that must be met for the story to be complete]
 
